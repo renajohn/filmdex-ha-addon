@@ -1,15 +1,13 @@
-ingress: true
-ingress_port: 3001
-panel_icon: "mdi:movie-open"
-panel_title: "FilmDex"
-
 name: "FilmDex"
 slug: "filmdex"
 version: "0.0.0-2.cc2376c"
 description: "Your Pokédex for physical movies"
 arch: [amd64, aarch64]
-
 image: "ghcr.io/renajohn/filmdex:{version}"
+ingress: true
+ingress_port: 3001
+panel_icon: "mdi:movie-open"
+panel_title: "FilmDex"
 
 options:
   log_level: "info"
@@ -17,6 +15,7 @@ options:
   tmdb_api_key: ""
   max_upload_mb: 20
   base_url: "http://localhost:3001"
+
 schema:
   log_level: list(info|warn|error)
   omdb_api_key: password?
