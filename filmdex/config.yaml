@@ -4,6 +4,7 @@ version: "0.0.0-2.cc2376c"
 description: "Your Pokédex for physical movies"
 arch: [amd64, aarch64]
 image: "ghcr.io/renajohn/filmdex:{version}"
+startup: application
 ingress: true
 ingress_port: 3001
 panel_icon: "mdi:movie-open"
