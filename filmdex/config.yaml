@@ -1,6 +1,6 @@
 name: FilmDex
 slug: filmdex
-version: "0.0.0-2.cc2376c"
+version: "0.0.0-3-85ee717"
 description: Your Pokédex for physical movies
 init: false
 arch: 
@@ -8,7 +8,7 @@ arch:
   - amd64
   - armv7
   - i386
-image: "ghcr.io/renajohn/filmdex:0.0.0-2.cc2376c"
+image: "ghcr.io/renajohn/filmdex:{version}"
 url: "https://github.com/renajohn/filmdex-ha-addon/tree/main/filmdex"
 ingress: true
 ingress_port: 3001
@@ -20,11 +20,9 @@ options:
   omdb_api_key: ""
   tmdb_api_key: ""
   max_upload_mb: 20
-  base_url: "http://homeassistant.local:8123"
 
 schema:
   log_level: list(info|warn|error)
   omdb_api_key: password?
   tmdb_api_key: password?
   max_upload_mb: int
-  base_url: str
