@@ -2,10 +2,10 @@ name: FilmDex
 slug: filmdex
 version: "0.0.0-2.cc2376c"
 description: Your Pokédex for physical movies
+init: false
 arch: 
   - aarch64
   - amd64
-  - armhf
   - armv7
   - i386
 image: "ghcr.io/renajohn/filmdex:0.0.0-2.cc2376c"
