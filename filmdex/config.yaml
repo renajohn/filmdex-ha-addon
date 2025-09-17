@@ -8,7 +8,7 @@ arch:
   - amd64
   - armv7
   - i386
-image: "ghcr.io/renajohn/filmdex:{version}"
+image: "ghcr.io/renajohn/filmdex:0.0.0-3-85ee717"
 url: "https://github.com/renajohn/filmdex-ha-addon/tree/main/filmdex"
 ingress: true
 ingress_port: 3001
