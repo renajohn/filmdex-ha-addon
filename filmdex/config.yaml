@@ -1,6 +1,6 @@
 name: FilmDex
 slug: filmdex
-version: "0.0.0-6-d28600c"
+version: "0.0.0-7-aa9f1e5"
 description: Your Pokédex for physical movies
 init: false
 arch: 
@@ -22,7 +22,7 @@ options:
   max_upload_mb: 20
 
 schema:
-  log_level: list(info|warn|error)
+  log_level: list(debug|info|warn|error)
   omdb_api_key: password?
   tmdb_api_key: password?
   max_upload_mb: int
