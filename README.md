@@ -1,6 +1,6 @@
 # FilmDex - Physical Movie Collection Manager
 
-A Home Assistant addon for managing your physical movie collection with a beautiful web interface. Track your DVDs, Blu-rays, and more with integrated metadata and search capabilities.
+A Home Assistant addon for managing your physical movie collection with a beautiful web interface. Track your DVDs, Blu-rays, and more with integrated metadata and search capabilities. This addon has been mostly vibe coded with a mix of SPEC driven development and more traditional vibe coding.
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Frenajohn%2Ffilmdex-ha-addon)
 
@@ -29,6 +29,9 @@ Add both keys to the addon configuration after installation.
 3. Configure your TMDB and OMDB API keys
 4. Open the web interface and start adding your movies!
 
-
 *Built with good vibes and lots of coffee ☕ (and some tea)*
+
 <img width="1317" height="892" alt="Screenshot 2025-09-18 at 22 24 52" src="https://github.com/user-attachments/assets/7abf732f-70a5-4dc9-b9b4-a66e60646402" />
+
+## Links
+- **Main Project**: [FilmDex on GitHub](https://github.com/renajohn/filmdex)
