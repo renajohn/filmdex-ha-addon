@@ -11,7 +11,7 @@ A Home Assistant addon for managing your physical movie collection with a beauti
 - **Metadata Integration** - Automatic movie details and ratings
 - **Format Tracking** - Support for DVD, Blu-ray, 4K, and more
 - **Responsive Design** - Works on desktop and mobile
-- **CSV Import/Export** - Bulk import your existing collection
+- **CSV Import** - Bulk import your existing collection
 
 ### Configuration
 
@@ -31,7 +31,7 @@ Add both keys to the addon configuration after installation.
 
 *Built with good vibes and lots of coffee ☕ (and some tea)*
 
-<img width="1317" height="892" alt="Screenshot 2025-09-18 at 22 24 52" src="https://github.com/user-attachments/assets/7abf732f-70a5-4dc9-b9b4-a66e60646402" />
+<img width="1318" height="1051" alt="Main collection view" src="https://github.com/user-attachments/assets/920216ba-c963-403e-aecd-20b3d7576ea0" />
 
 ## Links
 - **Main Project**: [FilmDex on GitHub](https://github.com/renajohn/filmdex)
