@@ -1,6 +1,6 @@
 name: FilmDex
 slug: filmdex
-version: "0.0.0-56-e912412"
+version: "0.0.0-60-bb45fdb"
 description: Your Pokédex for physical movies
 init: false
 arch: 
