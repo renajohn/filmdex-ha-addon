@@ -1,7 +1,7 @@
 name: FilmDex
 slug: filmdex
 icon: "mdi:movie-open"
-version: "0.0.0-74-5f14dd8"
+version: "0.0.0-75-bc0efad"
 description: Your Pokédex for physical movies
 init: false
 arch: 
