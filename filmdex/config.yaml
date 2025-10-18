@@ -1,8 +1,8 @@
-name: FilmDex
-slug: filmdex
+name: DexVault
+slug: dexvault
 icon: "mdi:movie-open"
 version: "0.0.0-113-adc8105"
-description: Your Pokédex for physical movies
+description: DexVault - Organize Your Collections
 init: false
 arch: 
   - aarch64
