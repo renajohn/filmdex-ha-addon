@@ -1,7 +1,7 @@
 name: DexVault
 slug: filmdex
 icon: "mdi:movie-open"
-version: "0.0.0-175-e0a8406"
+version: "0.0.0-176-b83b22c"
 description: DexVault - Organize Your Collections
 init: false
 arch: 
